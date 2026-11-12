@@ -8,10 +8,21 @@ O objetivo do projeto foi refatorar e estruturar uma aplicação bancária aplic
 
 ---
 
+## 🙏 Créditos e Agradecimentos
+
+Agradecimentos especiais à expert **Nathally Souza** pela didática, orientação e estruturação deste desafio na plataforma da **Digital Innovation One (DIO)**:
+
+* **Instrutora:** [Nathally Souza (@nathsouzadev)](https://github.com/nathsouzadev)
+* **Repositório Base do Desafio:** [digitalinnovationone/desafio01-ts](https://github.com/digitalinnovationone/desafio01-ts)
+
+---
+
 ## 🛠️ Tecnologias e Ferramentas
-* **TypeScript** (Versão 4.9+)
-* **Node.js**
-* **ts-node-dev** (Ambiente de execução e compilação em tempo real)
+* **TypeScript**.
+* **Node.js**.
+* **ts-node-dev** Ambiente de execução e compilação em tempo real.
+* **VS Code** Configurado e estruturado para edição.
+* **Git & GitHub** Controle de versão e hospedagem de código.
 
 ---
 
@@ -28,3 +39,7 @@ O projeto foi organizado de forma modular, separando a lógica das contas e a ca
 ├── app.ts                   # Arquivo principal de integração e testes das instâncias
 ├── package.json
 └── tsconfig.json
+```
+
+---
+
